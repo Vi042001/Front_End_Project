@@ -1,2 +1,2 @@
 # Front_End_Project
-using HTML, CSS
+using HTML, CSS , JavaScript
